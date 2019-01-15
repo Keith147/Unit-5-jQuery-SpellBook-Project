@@ -1,7 +1,7 @@
 //Spell #1
 
 $("#yeet").click(function(){
- $("#big").fadeToggle();
+     $("#big").fadeToggle();
 });
 
 
@@ -9,7 +9,7 @@ $("#yeet").click(function(){
 //Spell #2
 
 $("#slide").click(function(){
- $("#yoink").animate({width:'toggle'},350)();
+    $("#yoink").animate({width:'toggle'},350)();
 });
 
 
@@ -17,7 +17,7 @@ $("#slide").click(function(){
 //Spell #3
 
 $("#chun").click(function(){
- $("#chunga").toggle();
+    $("#chunga").toggle();
 });
 
 
